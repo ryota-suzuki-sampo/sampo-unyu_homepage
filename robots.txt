@@ -1,0 +1,3 @@
+# robots.txt for public website (allow all)
+User-agent: *
+Allow: /
